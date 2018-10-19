@@ -1,4 +1,5 @@
-import configparser, json, logging, sys, OpenMovie
+from OpenMovie import *
+import configparser, json, logging, sys
 
 if __name__ == "__main__":
 
@@ -25,7 +26,41 @@ if __name__ == "__main__":
                         format='%(asctime)s,%(message)s',
                         datefmt='%m/%d/%Y %I:%M:%S %p')
 
-    # Create a logging instance using log_file_name
+    # create a logging instance using log_file_name
     logging.info(" %s opens. Program starts." % log_file_name)
 
-    # Read the ”movies.json” file and load its data
+    # read the ”movies.json” file and load its data
+    try:
+        contents = open('movies.json', 'r')
+    except:
+        print("Failed to open JSON file")
+        logging.error("Failed to open JSON file")
+        sys.exit()
+
+    # get a dictionary from the ”movie posters” field of the json data named data
+    data = json.load(contents)
+
+    # test code to print out the data dictionary of json objects
+    # print(data['movie_posters'])
+    # for i in data['movie_posters']:
+    #     print(i, data['movie_posters'][i])
+
+    # for each item in this dictionary,
+    # a. create an instance of OpenMovie using the key for the title and the value for the posterURL
+    # b. call the getPoster method of this instance of OpenMovie
+    # c. delete this instance of OpenMovie
+    for i in data['movie_posters']:
+        instance = OpenMovie(i, data['movie_posters'][i])
+        instance.getPoster()
+        del instance
+
+
+
+
+
+
+
+
+
+
+
