@@ -588,3 +588,107 @@ urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certifica
 10/18/2018 11:22:54 PM, getPoster() method is called
 10/18/2018 11:22:54 PM, Poster's name: Iron Man
 10/18/2018 11:22:54 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+10/18/2018 11:41:34 PM, lab4.log opens. Program starts.
+10/18/2018 11:42:07 PM, lab4.log opens. Program starts.
+10/18/2018 11:42:07 PM, the directory Posters already exists
+10/18/2018 11:42:07 PM, getPoster() method is called
+10/18/2018 11:42:07 PM, Poster's name: Avatar
+10/18/2018 11:42:07 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:42:07 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x1043aeec8>)
+10/18/2018 11:42:45 PM, lab4.log opens. Program starts.
+10/18/2018 11:42:45 PM, the directory Posters already exists
+10/18/2018 11:42:45 PM, getPoster() method is called
+10/18/2018 11:42:45 PM, Poster's name: Avatar
+10/18/2018 11:42:45 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:42:45 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x102811e08>)
+10/18/2018 11:42:53 PM, lab4.log opens. Program starts.
+10/18/2018 11:42:53 PM, the directory Posters already exists
+10/18/2018 11:42:53 PM, getPoster() method is called
+10/18/2018 11:42:53 PM, Poster's name: Avatar
+10/18/2018 11:42:53 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:42:53 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10b2dcfc8>)
+10/18/2018 11:43:15 PM, lab4.log opens. Program starts.
+10/18/2018 11:43:15 PM, the directory Posters already exists
+10/18/2018 11:43:15 PM, getPoster() method is called
+10/18/2018 11:43:15 PM, Poster's name: Avatar
+10/18/2018 11:43:15 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:43:15 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x102ee2f08>)
+10/18/2018 11:43:38 PM, lab4.log opens. Program starts.
+10/18/2018 11:43:54 PM, lab4.log opens. Program starts.
+10/18/2018 11:43:54 PM, the directory Posters already exists
+10/18/2018 11:43:54 PM, getPoster() method is called
+10/18/2018 11:43:54 PM, Poster's name: Avatar
+10/18/2018 11:43:54 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:43:54 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10a892ec8>)
+10/18/2018 11:44:03 PM, lab4.log opens. Program starts.
+10/18/2018 11:44:33 PM, lab4.log opens. Program starts.
+10/18/2018 11:44:42 PM, lab4.log opens. Program starts.
+10/18/2018 11:44:57 PM, lab4.log opens. Program starts.
+10/18/2018 11:44:57 PM, the directory Posters already exists
+10/18/2018 11:44:57 PM, getPoster() method is called
+10/18/2018 11:44:57 PM, Poster's name: Avatar
+10/18/2018 11:44:57 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:44:57 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x1095e7ec8>)
+10/18/2018 11:45:20 PM, lab4.log opens. Program starts.
+10/18/2018 11:45:20 PM, the directory Posters already exists
+10/18/2018 11:45:20 PM, getPoster() method is called
+10/18/2018 11:45:20 PM, Poster's name: Avatar
+10/18/2018 11:45:20 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:45:20 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10aa673c8>)
+10/18/2018 11:45:20 PM, the directory Posters already exists
+10/18/2018 11:45:20 PM, getPoster() method is called
+10/18/2018 11:45:20 PM, Poster's name: Clerks
+10/18/2018 11:45:20 PM, Poster's URL https://ia.media-imdb.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+10/18/2018 11:45:20 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10aa67b48>)
+10/18/2018 11:45:20 PM, the directory Posters already exists
+10/18/2018 11:45:20 PM, getPoster() method is called
+10/18/2018 11:45:20 PM, Poster's name: Gladiator
+10/18/2018 11:45:20 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+10/18/2018 11:45:20 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10aa67a08>)
+10/18/2018 11:45:20 PM, the directory Posters already exists
+10/18/2018 11:45:20 PM, getPoster() method is called
+10/18/2018 11:45:20 PM, Poster's name: Iron Man
+10/18/2018 11:45:20 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+10/18/2018 11:45:20 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10aa67148>)
+10/18/2018 11:45:24 PM, lab4.log opens. Program starts.
+10/18/2018 11:45:24 PM, the directory Posters already exists
+10/18/2018 11:45:24 PM, getPoster() method is called
+10/18/2018 11:45:24 PM, Poster's name: Avatar
+10/18/2018 11:45:24 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:45:25 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10a211f08>)
+10/18/2018 11:45:25 PM, the directory Posters already exists
+10/18/2018 11:45:25 PM, getPoster() method is called
+10/18/2018 11:45:25 PM, Poster's name: Clerks
+10/18/2018 11:45:25 PM, Poster's URL https://ia.media-imdb.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+10/18/2018 11:45:25 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10a2286c8>)
+10/18/2018 11:45:25 PM, the directory Posters already exists
+10/18/2018 11:45:25 PM, getPoster() method is called
+10/18/2018 11:45:25 PM, Poster's name: Gladiator
+10/18/2018 11:45:25 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+10/18/2018 11:45:25 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10a228e08>)
+10/18/2018 11:45:25 PM, the directory Posters already exists
+10/18/2018 11:45:25 PM, getPoster() method is called
+10/18/2018 11:45:25 PM, Poster's name: Iron Man
+10/18/2018 11:45:25 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+10/18/2018 11:45:25 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10a200a08>)
+10/18/2018 11:45:27 PM, lab4.log opens. Program starts.
+10/18/2018 11:45:27 PM, the directory Posters already exists
+10/18/2018 11:45:27 PM, getPoster() method is called
+10/18/2018 11:45:27 PM, Poster's name: Avatar
+10/18/2018 11:45:27 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:45:27 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10ba83e48>)
+10/18/2018 11:45:27 PM, the directory Posters already exists
+10/18/2018 11:45:27 PM, getPoster() method is called
+10/18/2018 11:45:27 PM, Poster's name: Clerks
+10/18/2018 11:45:27 PM, Poster's URL https://ia.media-imdb.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+10/18/2018 11:45:27 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10ba9b608>)
+10/18/2018 11:45:27 PM, the directory Posters already exists
+10/18/2018 11:45:27 PM, getPoster() method is called
+10/18/2018 11:45:27 PM, Poster's name: Gladiator
+10/18/2018 11:45:27 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+10/18/2018 11:45:27 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10ba9bd48>)
+10/18/2018 11:45:27 PM, the directory Posters already exists
+10/18/2018 11:45:27 PM, getPoster() method is called
+10/18/2018 11:45:27 PM, Poster's name: Iron Man
+10/18/2018 11:45:27 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+10/18/2018 11:45:27 PM,(<class 'urllib.error.URLError'>, URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')), <traceback object at 0x10ba73988>)

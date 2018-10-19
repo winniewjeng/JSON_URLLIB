@@ -40,7 +40,7 @@ class OpenMovie:
         except:
             exc_info = sys.exc_info()
             logging.error(exc_info)
-            traceback.print_exception(exc_info, limit=2, file=sys.stdout)
+            # traceback.print_exception(exc_info, limit=2, file=sys.stdout)
             return False
 
     # member variables of class - accessed by Node.element

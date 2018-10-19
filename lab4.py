@@ -51,6 +51,7 @@ if __name__ == "__main__":
     # b. call the getPoster method of this instance of OpenMovie
     # c. delete this instance of OpenMovie
     for i in data['movie_posters']:
+        # instance = OpenMovie.OpenMovie.__init__(i, data['movie_posters'][i])
         instance = OpenMovie(i, data['movie_posters'][i])
         instance.getPoster()
         del instance
