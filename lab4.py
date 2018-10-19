@@ -1,3 +1,4 @@
+# I don't know why if I simply write "import OpenMovie" my program won't import it...
 from OpenMovie import *
 import configparser, json, logging, sys
 
@@ -53,6 +54,8 @@ if __name__ == "__main__":
         instance = OpenMovie(i, data['movie_posters'][i])
         instance.getPoster()
         del instance
+
+    contents.close()
 
 
 

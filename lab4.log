@@ -555,3 +555,36 @@ urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certifica
 10/18/2018 10:50:18 PM, Poster's name: Iron Man
 10/18/2018 10:50:18 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
 10/18/2018 10:50:18 PM,      poster's name Posters/Iron_Man
+10/18/2018 11:19:13 PM, lab4.log opens. Program starts.
+10/18/2018 11:19:13 PM, the directory Posters already exists
+10/18/2018 11:19:13 PM, getPoster() method is called
+10/18/2018 11:19:13 PM, Poster's name: Avatar
+10/18/2018 11:19:13 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:19:14 PM, the directory Posters already exists
+10/18/2018 11:19:14 PM, getPoster() method is called
+10/18/2018 11:19:14 PM, Poster's name: Clerks
+10/18/2018 11:19:14 PM, Poster's URL https://ia.media-imdb.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+10/18/2018 11:19:14 PM, the directory Posters already exists
+10/18/2018 11:19:14 PM, getPoster() method is called
+10/18/2018 11:19:14 PM, Poster's name: Gladiator
+10/18/2018 11:19:14 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+10/18/2018 11:19:14 PM, the directory Posters already exists
+10/18/2018 11:19:14 PM, getPoster() method is called
+10/18/2018 11:19:14 PM, Poster's name: Iron Man
+10/18/2018 11:19:14 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+10/18/2018 11:22:54 PM, lab4.log opens. Program starts.
+10/18/2018 11:22:54 PM, getPoster() method is called
+10/18/2018 11:22:54 PM, Poster's name: Avatar
+10/18/2018 11:22:54 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+10/18/2018 11:22:54 PM, the directory Posters already exists
+10/18/2018 11:22:54 PM, getPoster() method is called
+10/18/2018 11:22:54 PM, Poster's name: Clerks
+10/18/2018 11:22:54 PM, Poster's URL https://ia.media-imdb.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+10/18/2018 11:22:54 PM, the directory Posters already exists
+10/18/2018 11:22:54 PM, getPoster() method is called
+10/18/2018 11:22:54 PM, Poster's name: Gladiator
+10/18/2018 11:22:54 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+10/18/2018 11:22:54 PM, the directory Posters already exists
+10/18/2018 11:22:54 PM, getPoster() method is called
+10/18/2018 11:22:54 PM, Poster's name: Iron Man
+10/18/2018 11:22:54 PM, Poster's URL https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
