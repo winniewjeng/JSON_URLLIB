@@ -57,14 +57,3 @@ if __name__ == "__main__":
         del instance
 
     contents.close()
-
-
-
-
-
-
-
-
-
-
-

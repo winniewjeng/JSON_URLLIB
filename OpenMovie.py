@@ -38,9 +38,9 @@ class OpenMovie:
             return True
         # not sure if my traceback and error handling / logging is done correctly
         except:
-            exc_info = sys.exc_info()
-            logging.error(exc_info)
-            # traceback.print_exception(exc_info, limit=2, file=sys.stdout)
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            logging.error(" On line %s" % exc_traceback)
+            traceback.print_exception(exc_type, exc_value, exc_traceback, limit=2, file=sys.stdout)
             return False
 
     # member variables of class - accessed by Node.element
