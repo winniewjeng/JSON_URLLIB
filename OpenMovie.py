@@ -39,11 +39,12 @@ class OpenMovie:
         # not sure if my traceback and error handling / logging is done correctly
         except:
             exc_type, exc_value, exc_traceback = sys.exc_info()
-            logging.error(" On line %s" % exc_traceback)
             traceback.print_exception(exc_type, exc_value, exc_traceback, limit=2, file=sys.stdout)
+            print("*** tb_lineno:", exc_traceback.tb_lineno)
+            logging.error("*** tb_lineno:", exc_traceback.tb_lineno)
             return False
 
-    # member variables of class - accessed by Node.element
-    title = None
-    posterURL = None
-    posterFileName = None
+
+title = None
+posterURL = None
+posterFileName = None

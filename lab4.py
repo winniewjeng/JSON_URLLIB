@@ -1,5 +1,5 @@
 # I don't know why if I simply write "import OpenMovie" my program won't import it...
-from OpenMovie import *
+import OpenMovie
 import configparser, json, logging, sys
 
 if __name__ == "__main__":
@@ -52,8 +52,8 @@ if __name__ == "__main__":
     # c. delete this instance of OpenMovie
     for i in data['movie_posters']:
         # instance = OpenMovie.OpenMovie.__init__(i, data['movie_posters'][i])
-        instance = OpenMovie(i, data['movie_posters'][i])
+        instance = OpenMovie.OpenMovie(i, data['movie_posters'][i])
         instance.getPoster()
-        del instance
+        # del instance
 
     contents.close()
