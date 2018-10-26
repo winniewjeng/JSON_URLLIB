@@ -1,6 +1,21 @@
-# I don't know why if I simply write "import OpenMovie" my program won't import it...
 import OpenMovie
-import configparser, json, logging, sys
+import configparser
+import json
+import logging
+import sys
+
+"""
+File: Jeng_Winnie_Lab4.py
+
+Author: Winnie Wei Jeng
+Assignment: Lab 1
+Professor: Phil Tracton
+Date: 10/20/2018
+
+This program demonstrate using multiple libraries to open up JSON file 
+that contains URLs of movie poster images and movie titles
+
+"""
 
 if __name__ == "__main__":
 
